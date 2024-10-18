@@ -19,7 +19,7 @@ body {
 
 .container-box {
   background-color: var(--grey800);
-  width: 40%;
+  width: 30%;
   height: 100%;
   margin: 100px auto;
   border-radius: 12px;
